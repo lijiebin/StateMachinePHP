@@ -1,3 +1,5 @@
+<?php
+
 class State {
     private $name;
     private $transitions = [];
